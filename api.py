@@ -231,6 +231,7 @@ def delete_todo(current_user, todo_id):
 if __name__ == '__main__':
     app.run(debug=True)
 
-# flask db init  create migrations folder
-# flask db migrate  generate an initial migration
-# flask db upgrade  apply the migrations
+# set FLASK_APP=api.py - set up flask environment variable required to run the below commands
+# flask db init - create migrations folder
+# flask db migrate - generate an initial migration
+# flask db upgrade - apply the migrations
