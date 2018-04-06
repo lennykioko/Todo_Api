@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Hello World
-A simple repo with branching.
+# Todo_Api
+A simple flask API for a todo application.
 
 ## Author:
 Lenny Kioko.
